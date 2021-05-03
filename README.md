@@ -9,12 +9,12 @@ This repository contains the source code for a brief description of the analyses
 - [Transient_expression.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Transient_expression.py) Brief description for identifying transient expression TF.
 - [Expression_similarity.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Expression_similarity.py) Performing analyses for calculating similarity between two TFs.
 - [Umap_and_louvain.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Umap_and_louvain.py) Performing analyses related to ontologically-related cells.
-- [Cell_lineage_distance.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Calculate_cell_lineage_distance.py) Calculating cell lineage distance between cells.
-- [Cell_state_divergence.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Calculate_jensenshannon.py) Calculating cell state divergences .
+- [Cell_lineage_distance.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Cell_lineage_distance.py) Calculating cell lineage distance between cells.
+- [Cell_state_divergence.py](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/Cell_state_divergence.py) Calculating cell state divergences .
 - [data](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/data) folder contains the raw data needed for various analysis.
 
 ## Prerequisites
-All the dependencies are listed in [requirements.txt](https://github.com/genetics-dulab/scCAL/blob/main/requirements.txt). 
+All the dependencies are listed in [requirements.txt](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/requirements.txt). 
 
 Most analyses were performed under python 3.7.1
 
@@ -29,5 +29,5 @@ Additional Python packages required for analysis include:
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/genetics-dulab/scCAL/blob/main/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/IGDB-DuLab/Zhao-TF/blob/main/LICENSE) file for details.
 
