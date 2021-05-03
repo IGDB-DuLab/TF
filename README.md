@@ -23,6 +23,9 @@ Additional Python packages required for analysis include:
 - pandas (>= 1.0.3)
 - scipy (>= 1.2.1)
 - umap (>= 0.4.6)
+- sklearn (>= 0.23.1)
+- community (>= 0.13)
+- networkx (>= 2.2)
 
 ## License
 
